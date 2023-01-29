@@ -1,9 +1,9 @@
-import adapter from "@sveltejs/adapter-auto";
-import adapter from "@sveltejs/adpater-netlify";
+// import adapter from "@sveltejs/adapter-auto";
+import adapter from "@sveltejs/adapter-netlify";
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   kit: {
-    target: "#svelte",
+    // target: "#svelte",
     adapter: adapter(),
   },
 };
