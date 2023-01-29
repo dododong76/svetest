@@ -1,0 +1,102 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/build/hooks.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout-a805cf16.css"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/board/+page.svelte": {
+    "file": "entries/pages/board/_page.svelte.js",
+    "src": "src/routes/board/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-9245c64c.css"
+    ]
+  },
+  "src/routes/docs/+page.svelte": {
+    "file": "entries/pages/docs/_page.svelte.js",
+    "src": "src/routes/docs/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/down/+page.svelte": {
+    "file": "entries/pages/down/_page.svelte.js",
+    "src": "src/routes/down/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/phone_student/+page.svelte": {
+    "file": "entries/pages/phone_student/_page.svelte.js",
+    "src": "src/routes/phone_student/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/phone_teacher/+page.svelte": {
+    "file": "entries/pages/phone_teacher/_page.svelte.js",
+    "src": "src/routes/phone_teacher/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-7eb31050.css"
+    ]
+  },
+  "src/routes/todo/+page.svelte": {
+    "file": "entries/pages/todo/_page.svelte.js",
+    "src": "src/routes/todo/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  ".svelte-kit/build/hooks.js": {
+    "file": "chunks/hooks.js",
+    "src": ".svelte-kit/build/hooks.js",
+    "isDynamicEntry": true
+  },
+  "_index.js": {
+    "file": "chunks/index.js"
+  }
+}
